@@ -1,0 +1,128 @@
+[
+  {
+    "id": "fund_001",
+    "title": "Position Is Everything",
+    "stage": "FUNDAMENTALS",
+    "order": 1,
+    "summary": "Why position is the single most important factor in profitable poker.",
+    "contentSections": [
+      "If you could only learn one concept in poker, it should be this: position is the most important factor in every decision you make. Being in position (acting last) gives you an information advantage that compounds over every street of every hand. The player on the button is the most profitable seat at the table, and it's not close.",
+      "When you act last, you see what every other player does before you decide. If they check, you know they're likely weak. If they bet small, you can raise with confidence. If they bet big, you can fold without investing anything. This information is worth real money — studies of millions of hands show that button players win at roughly 5 times the rate of UTG players.",
+      "The practical impact is dramatic: a hand like K-J offsuit is a clear fold from UTG but a standard raise from the button. The same two cards change from unprofitable to profitable purely based on position. This is because from the button, you'll act last on the flop, turn, and river — giving you control of the hand. From UTG, you'll be guessing on every street.",
+      "Most beginners play the same hands from every position. This is the single biggest leak in beginner poker. Start by cutting your opening range in half from early position compared to the button. If you would open 40% of hands on the button, open only about 15% from UTG. Your win rate will improve immediately."
+    ],
+    "keyTakeaways": [
+      "Position is the single biggest factor in hand profitability",
+      "The button wins at roughly 5x the rate of UTG",
+      "Play tight in early position, wide in late position",
+      "The same hand can be a fold or a raise depending on position",
+      "Most beginners lose money by ignoring position entirely"
+    ],
+    "relatedCategory": "POSITION"
+  },
+  {
+    "id": "fund_002",
+    "title": "Building Your Preflop Ranges",
+    "stage": "FUNDAMENTALS",
+    "order": 2,
+    "summary": "How to think about starting hand selection as ranges rather than individual hands.",
+    "contentSections": [
+      "Instead of memorizing a list of playable hands, think in ranges — the full set of hands you would play from each position. A range is defined by position, action (open, call, 3-bet), and context (stack depth, opponent tendencies). Range-based thinking is the foundation of modern poker strategy.",
+      "From UTG (earliest position), your opening range should be roughly the top 15% of hands: pairs 77 and above, ATs and above, AJo and above, KQs. This tight range works because you'll be out of position against most opponents and need strong hands to compensate. From the button, you can open 40-50% of hands because position compensates for weaker holdings.",
+      "Suited hands are significantly more valuable than their offsuit counterparts. A5 suited can make nut flushes and has more playability than A5 offsuit. The suitedness adds roughly 3-4% equity, which translates to real money over thousands of hands. This is why suited connectors like 7-6 suited are playable from late position while 7-6 offsuit is trash from everywhere.",
+      "Avoid the trap of playing too many offsuit broadway hands from early position. Hands like K-J offsuit and Q-T offsuit look pretty but play terribly from UTG or MP because when you make a pair, you often have kicker problems. Save these hands for late position where your positional advantage compensates for the hand's weaknesses."
+    ],
+    "keyTakeaways": [
+      "Think in ranges, not individual hands",
+      "UTG opens roughly 15% of hands; the button opens 40-50%",
+      "Suited hands are significantly more valuable than offsuit",
+      "Avoid offsuit broadways from early position — kicker problems",
+      "Your range should widen as your position improves"
+    ],
+    "relatedCategory": "PREFLOP_RANGES"
+  },
+  {
+    "id": "fund_003",
+    "title": "Pot Odds Made Simple",
+    "stage": "FUNDAMENTALS",
+    "order": 3,
+    "summary": "The essential math behind calling decisions — when to continue and when to fold.",
+    "contentSections": [
+      "Pot odds are the ratio of the current pot size to the cost of calling a bet. If the pot is $60 and you face a $20 bet, you're getting 3-to-1 pot odds (60:20). To express this as a percentage: you need to call $20 to win $80 total, so you need to win 20/80 = 25% of the time to break even.",
+      "To use pot odds, compare the price you're getting to your equity (chance of winning). If the pot is $60 and villain bets $20, you need 25% equity. If you have a flush draw (9 outs, roughly 35% equity on the flop), calling is profitable because 35% is greater than 25%. If you have a gutshot (4 outs, roughly 17% equity), folding is correct because 17% is less than 25%.",
+      "Two shortcuts make this math easy in real time. The Rule of 4: on the flop with two cards to come, multiply your outs by 4 to get your approximate equity percentage. Nine flush outs times 4 equals 36%. The Rule of 2: on the turn with one card to come, multiply outs by 2. Nine outs times 2 equals 18%. These aren't exact but they're close enough for in-game decisions.",
+      "Implied odds extend this concept by considering future bets. If you're drawing to the nut flush, you'll often win additional bets when you hit because your opponent won't know you made your flush. This means some calls that aren't profitable by direct pot odds become profitable when you factor in the money you'll win on later streets. Implied odds are highest when your draw is disguised and your opponent has a strong hand they won't fold."
+    ],
+    "keyTakeaways": [
+      "Pot odds = cost to call divided by total pot after your call",
+      "Compare pot odds to your equity — call when equity exceeds the price",
+      "Rule of 4 on the flop, Rule of 2 on the turn for quick equity estimates",
+      "Flush draws (9 outs = 36% on flop) usually have good enough odds to call",
+      "Implied odds matter when your draw is disguised and villain has a big hand"
+    ],
+    "relatedCategory": "POT_ODDS"
+  },
+  {
+    "id": "fund_004",
+    "title": "Understanding Board Texture",
+    "stage": "FUNDAMENTALS",
+    "order": 4,
+    "summary": "How the community cards shape strategy through dry and wet board textures.",
+    "contentSections": [
+      "Board texture refers to how the community cards connect with each other and with likely player holdings. Recognizing board texture instantly is a fundamental skill that affects every post-flop decision — whether to bet, how much to bet, and how to react to opponent actions.",
+      "Dry boards are uncoordinated boards with few or no draws. Examples: K-7-2 rainbow, A-5-3 rainbow, Q-7-2 with no flush draw. On dry boards, the preflop raiser's range advantage is preserved because few hands improved. Bet smaller on dry boards because there are fewer hands that will call, and the hands that do call are either strong (top pair+) or have weak draws that aren't going anywhere.",
+      "Wet boards are coordinated boards with many possible draws. Examples: J-T-9 two-tone, Q-J-8 with a flush draw, 8-7-6 two-tone. On wet boards, many hands in your opponent's range connected in some way — straight draws, flush draws, pairs with draws. Bet larger on wet boards to charge draws the correct price and to protect your strong hands from being outdrawn.",
+      "The key insight: your bet sizing should vary based on board texture, not on your hand strength. If you always bet big with strong hands and small with weak hands, observant opponents will exploit you. Instead, bet based on the board: small on dry boards (regardless of your hand), larger on wet boards (regardless of your hand). This balanced approach is the foundation of unexploitable poker."
+    ],
+    "keyTakeaways": [
+      "Dry boards have few draws — bet small at high frequency",
+      "Wet boards have many draws — bet larger to charge them",
+      "Board texture should determine your sizing more than your hand",
+      "The preflop raiser has an advantage on high, dry boards",
+      "Connected, low boards favor the caller's range more"
+    ],
+    "relatedCategory": "CBETTING"
+  },
+  {
+    "id": "fund_005",
+    "title": "Continuation Betting Strategy",
+    "stage": "FUNDAMENTALS",
+    "order": 5,
+    "summary": "When and how to bet the flop as the preflop aggressor.",
+    "contentSections": [
+      "A continuation bet (c-bet) is a bet made on the flop by the player who raised preflop. It's called a continuation bet because you're continuing the aggression you started before the flop. C-betting is one of the most frequent and important decisions in poker — you'll face it nearly every hand you play.",
+      "The old-school approach was to c-bet almost every flop. Modern strategy is more nuanced: you should c-bet based on how the board texture interacts with your range and your opponent's range. On boards that favor your range (ace-high boards, king-high dry boards), c-bet frequently with a small size. On boards that favor your opponent's range (low connected boards), check more often.",
+      "Your c-bet should include both value bets (hands you want to be called with) and bluffs (hands that benefit from your opponent folding). A healthy c-betting range on a K-7-2 board might include: all kings and better (value), ace-high hands (thin value/protection), and backdoor draws (bluffs). This balance makes you difficult to play against.",
+      "When your c-bet gets called, you need a plan for the turn. Don't mindlessly fire a second barrel — evaluate whether the turn card improves your hand, improves your opponent's likely range, or changes nothing. Giving up on the turn with your bluffs is fine and expected. But when you have strong hands, continue betting for value. The key is to have a deliberate reason for every bet."
+    ],
+    "keyTakeaways": [
+      "A c-bet continues the aggression from preflop to the flop",
+      "C-bet based on board texture, not just your hand",
+      "Include both value bets and bluffs in your c-betting range",
+      "Ace-high and king-high dry boards are great for c-betting",
+      "Have a plan for the turn before you c-bet the flop"
+    ],
+    "relatedCategory": "CBETTING"
+  },
+  {
+    "id": "fund_006",
+    "title": "Bet Sizing Fundamentals",
+    "stage": "FUNDAMENTALS",
+    "order": 6,
+    "summary": "Why how much you bet is as important as whether you bet.",
+    "contentSections": [
+      "Bet sizing is one of the most neglected skills in beginner poker. Many players default to the same size on every street regardless of the situation. But sizing carries enormous information and directly impacts your profitability. A well-chosen bet size can extract maximum value or apply perfect pressure.",
+      "On dry boards, use small bets (25-33% of the pot). The reason: there are few draws to charge, and your opponent either has a piece of the board or they don't. A small bet gets the same information as a big bet while risking less with your bluffs and keeping your opponent's calling range wide when you have value.",
+      "On wet boards, use larger bets (66-80% of the pot). The reason: there are many draws, and you need to charge them the correct price. If the pot is $100 and you bet $33, you're giving flush draws and straight draws great odds to call and potentially beat you. A $75 bet makes those calls much less profitable for draws.",
+      "On the river, sizing becomes about maximizing value or maximizing fold equity. With the nuts, think about the maximum your opponent will call — this is often larger than you think. With a bluff, think about the minimum you need to bet to make them fold. These are different sizes for different purposes, but you should use similar sizes with value and bluffs to stay balanced."
+    ],
+    "keyTakeaways": [
+      "Bet sizing should vary based on board texture, not hand strength",
+      "Small bets (1/4-1/3 pot) on dry boards, large bets (2/3-3/4 pot) on wet boards",
+      "River sizing: maximize calls with value, maximize folds with bluffs",
+      "Using the same size with value and bluffs prevents opponents from reading you",
+      "Good sizing is one of the first things that separates beginners from solid players"
+    ],
+    "relatedCategory": "BET_SIZING"
+  }
+]

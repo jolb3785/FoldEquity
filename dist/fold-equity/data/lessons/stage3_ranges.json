@@ -1,0 +1,86 @@
+[
+  {
+    "id": "range_001",
+    "title": "Thinking in Ranges, Not Hands",
+    "stage": "RANGES",
+    "order": 1,
+    "summary": "The paradigm shift from 'what does my opponent have?' to 'what range of hands could they have?'",
+    "contentSections": [
+      "The single biggest leap in poker thinking is moving from hand-based analysis to range-based analysis. Beginners think 'my opponent has AK' and play accordingly. Intermediate players think 'my opponent could have any of these 50 combinations' and make decisions based on how their hand performs against the full range.",
+      "A range is the complete set of hands someone could hold in a given situation. When a tight player raises from UTG, their range might be: AA-TT, AKs-ATs, AKo-AJo, KQs. When a loose player opens from the button, their range might include 60% of all hands. Every action your opponent takes narrows their range further.",
+      "Here's the practical application: on a K-7-2 flop, if you hold QQ and a tight UTG raiser bets, what does their range look like? They could have AA, KK (unlikely since you need a K on board), AK, KQ, QQ (you have it), JJ, TT. Against that range, your QQ is behind AK and AA but ahead of JJ-TT and flips with other QQ. You're winning about 40% of the time. That's the information you need to make a decision.",
+      "The key realization: you don't need to know exactly what your opponent has. You need to estimate their range and understand how your hand performs against it. If your hand beats more than half their range, you can usually call or raise. If your hand loses to most of their range, you should usually fold. This probabilistic thinking replaces guesswork with strategy."
+    ],
+    "keyTakeaways": [
+      "Never try to put your opponent on one specific hand",
+      "Instead, estimate the full range of hands they could have",
+      "Every action (raise, call, check) narrows their possible range",
+      "Your hand's value is relative to your opponent's range, not to one hand",
+      "Range thinking is what separates intermediate players from beginners"
+    ],
+    "relatedCategory": "HAND_STRENGTH"
+  },
+  {
+    "id": "range_002",
+    "title": "Range Advantage and Board Interaction",
+    "stage": "RANGES",
+    "order": 2,
+    "summary": "Understanding who the board favors based on preflop ranges.",
+    "contentSections": [
+      "Range advantage refers to which player's overall range connects better with the board. This is different from having a specific strong hand — it's about which player's entire set of possible hands is stronger on this particular flop. The player with range advantage should generally bet more often.",
+      "The preflop raiser usually has range advantage on high boards (A-K-Q, A-J-7, K-Q-4). Why? Because the raiser's range contains more big cards (AK, AQ, KQ, etc.) while the caller's range has more speculative hands (suited connectors, small pairs). On ace-high boards, the raiser's range is especially strong because they have all the ace-big hands.",
+      "The caller has range advantage on low, connected boards (7-6-5, 8-7-4, 9-8-6). Why? Because the caller is more likely to have hands like 87s, 65s, T9s — suited connectors that make straights and two-pair on these boards. The preflop raiser rarely has hands like 76 suited in their raising range from early position.",
+      "Practical impact: when you're the preflop raiser and the board is A-K-3, you should c-bet at high frequency because your range dominates. When the board is 7-6-4, you should check more often because the board favors your opponent's calling range. This isn't about your specific hand — it's about how both ranges interact with the board."
+    ],
+    "keyTakeaways": [
+      "Range advantage means whose overall range connects better with the board",
+      "High boards favor the preflop raiser's range",
+      "Low connected boards favor the preflop caller's range",
+      "Bet more on boards where you have range advantage",
+      "Check more on boards where your opponent has range advantage"
+    ],
+    "relatedCategory": "CBETTING"
+  },
+  {
+    "id": "range_003",
+    "title": "Frequencies and Balance",
+    "stage": "RANGES",
+    "order": 3,
+    "summary": "Introduction to balanced play — why you need both value bets and bluffs.",
+    "contentSections": [
+      "Balanced poker means that your betting range contains the right ratio of value bets to bluffs. If you only bet with strong hands, observant opponents will fold whenever you bet. If you only bluff, they'll call you down every time. Balance means they can't profitably exploit either tendency.",
+      "The theoretically optimal bluff-to-value ratio is determined by your bet sizing. If you bet the full pot, your bluffs need to work 50% of the time. This means your betting range should be roughly 1 bluff for every 2 value bets (33% bluffs). If you bet half pot, your bluffs need to work 33% of the time, so you can bluff slightly less frequently.",
+      "For beginners, strict balance isn't necessary — most opponents at low stakes aren't paying enough attention. But understanding the concept helps you avoid the two biggest mistakes: never bluffing (making you predictable and easy to fold against) and always bluffing (making you a calling station's dream opponent).",
+      "A practical starting point: on the river, ask yourself 'if I bet here with my strong hands, do I also have some bluffs?' and 'if I check here with my weak hands, do I also have some strong hands I'm checking?' If the answer is yes, you're on the right track toward balance. Perfect balance is a goal for later; awareness is the first step."
+    ],
+    "keyTakeaways": [
+      "Balance means betting with both value hands and bluffs",
+      "If you never bluff, opponents fold every time you bet",
+      "If you always bluff, opponents call every time you bet",
+      "Bet sizing determines the correct bluff-to-value ratio",
+      "Awareness of balance is more important than perfect execution at first"
+    ],
+    "relatedCategory": "BET_SIZING"
+  },
+  {
+    "id": "range_004",
+    "title": "What Does My Opponent Think I Have?",
+    "stage": "RANGES",
+    "order": 4,
+    "summary": "Level 2 thinking — considering how your actions look from your opponent's perspective.",
+    "contentSections": [
+      "Level 1 thinking is: what do I have? Level 2 thinking is: what does my opponent think I have? This shift in perspective opens up an entirely new dimension of poker strategy. When you can see your hand through your opponent's eyes, you can predict their actions and craft deceptive strategies.",
+      "Consider this: you raised preflop and bet the flop on K-7-2. From your opponent's perspective, your range includes all the kings, aces, and premium pairs they'd expect you to raise. If the turn is a 3 and you bet again, your range looks like strong kings and overpairs. Now if the river is a 2 and you bet a third time, your line tells a story of a very strong hand — something like KK, AK, or AA.",
+      "This is where bluffing becomes strategic rather than random. A good bluff tells a believable story. If you raised preflop, bet the flop on K-7-2, and bet the turn and river, your bluff represents the exact same hands your value bets represent. Your opponent can't distinguish between AK and a complete bluff because both take the same line.",
+      "The reverse is equally important: your opponent's actions tell a story too. If they called preflop, called the flop, called the turn, and now raise the river — what story are they telling? They were drawing to something and they hit it. When their story makes sense, give them credit. When their story doesn't add up (like raising the river on a board where no draws completed), their range is weighted toward bluffs."
+    ],
+    "keyTakeaways": [
+      "Level 2 thinking: consider what your actions look like from opponent's view",
+      "Good bluffs tell a story consistent with strong hands",
+      "Your opponent's betting line tells a story too — read it",
+      "When their story makes sense, respect it; when it doesn't, consider calling",
+      "Every action you take provides information — be deliberate about what story you tell"
+    ],
+    "relatedCategory": "POSITION"
+  }
+]

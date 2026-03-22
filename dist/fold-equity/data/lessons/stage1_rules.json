@@ -1,0 +1,108 @@
+[
+  {
+    "id": "rules_001",
+    "title": "The Basics of Texas Hold'em",
+    "stage": "RULES",
+    "order": 1,
+    "summary": "Learn the fundamental structure of a Texas Hold'em hand from deal to showdown.",
+    "contentSections": [
+      "Texas Hold'em is a community card poker game where each player receives two private cards (called hole cards) and shares five community cards placed face-up on the board. The goal is to make the best five-card poker hand using any combination of your two hole cards and the five community cards.",
+      "A hand of Hold'em unfolds in four betting rounds. First, each player is dealt two cards face down — this is the preflop round. Then three community cards are dealt face up (the flop), followed by a fourth card (the turn), and finally a fifth card (the river). After each new card or set of cards is revealed, there is a round of betting.",
+      "Before any cards are dealt, two players must post forced bets called blinds. The player to the left of the dealer button posts the small blind, and the next player posts the big blind (typically double the small blind). These forced bets create a pot worth fighting for and ensure there's always action.",
+      "In each betting round, players can fold (give up their hand), check (pass the action if no bet has been made), call (match the current bet), bet (put chips in when no one else has), or raise (increase the current bet). A hand ends either when all but one player has folded, or at showdown after the river where remaining players reveal their hands."
+    ],
+    "keyTakeaways": [
+      "Each player gets two private hole cards and shares five community cards",
+      "There are four betting rounds: preflop, flop, turn, and river",
+      "Blinds are forced bets that create action",
+      "You can fold, check, call, bet, or raise in each betting round",
+      "The best five-card hand wins at showdown"
+    ],
+    "relatedCategory": ""
+  },
+  {
+    "id": "rules_002",
+    "title": "Hand Rankings — From High Card to Royal Flush",
+    "stage": "RULES",
+    "order": 2,
+    "summary": "Master the ten possible poker hand rankings from weakest to strongest.",
+    "contentSections": [
+      "Poker hands are ranked from weakest to strongest. You must know these cold — there's no time to look them up during a hand. Here are all ten rankings from worst to best:",
+      "High Card: No pair, no draw. Just the highest card in your hand. Example: A-K-9-7-3 with no matching suits. One Pair: Two cards of the same rank. Example: K-K-8-5-2. Two Pair: Two different pairs. Example: A-A-J-J-4. Three of a Kind: Three cards of the same rank. Example: 7-7-7-Q-3.",
+      "Straight: Five consecutive cards of any suit. Example: 5-6-7-8-9. The ace can be high (T-J-Q-K-A) or low (A-2-3-4-5, called the wheel). Flush: Five cards of the same suit, any order. Example: 2h-5h-8h-Jh-Ah. Full House: Three of a kind plus a pair. Example: Q-Q-Q-4-4.",
+      "Four of a Kind: Four cards of the same rank. Example: 9-9-9-9-K. Straight Flush: Five consecutive cards of the same suit. Example: 4s-5s-6s-7s-8s. Royal Flush: The ace-high straight flush, T-J-Q-K-A all of the same suit. This is the best possible hand in poker.",
+      "When two players have the same type of hand, kickers break the tie. If both players have a pair of kings, the player with the higher remaining cards (kickers) wins. Understanding kickers is crucial — AK beats KQ when both flop a king because the ace kicker plays."
+    ],
+    "keyTakeaways": [
+      "There are exactly 10 hand rankings — memorize them in order",
+      "Straight beats three of a kind; flush beats straight; full house beats flush",
+      "Kickers break ties between same-ranked hands",
+      "The ace can be high (royal flush) or low (wheel straight)",
+      "A flush always beats a straight, regardless of the highest card"
+    ],
+    "relatedCategory": "HAND_STRENGTH"
+  },
+  {
+    "id": "rules_003",
+    "title": "Table Positions Explained",
+    "stage": "RULES",
+    "order": 3,
+    "summary": "Understand the six key positions at a poker table and why they matter.",
+    "contentSections": [
+      "Position in poker refers to where you sit relative to the dealer button. It determines when you act in each betting round, and acting later is a massive advantage because you get to see what everyone else does before making your decision.",
+      "Early Position (UTG, UTG+1): These seats act first after the flop. Playing from early position is the hardest because you have the least information. You should play very tight here — only strong hands. Middle Position (MP): One seat before the cutoff. You can play a slightly wider range than early position but still need to be selective.",
+      "Late Position — the Cutoff (CO) and Button (BTN): These are the most profitable seats at the table. The cutoff is second-to-last to act, and the button acts last on every postflop street. Being last to act means you see every other player's action before deciding. This informational advantage is worth a tremendous amount. You can play the widest range of hands from these positions.",
+      "The Blinds (SB, BB): The small blind and big blind are forced to put money in before seeing their cards. The small blind acts second-to-last preflop but first postflop — the worst position at the table. The big blind acts last preflop (advantage) but early postflop (disadvantage). Both blinds are losing positions on average because they're forced to invest with random hands and play out of position postflop."
+    ],
+    "keyTakeaways": [
+      "Acting last (in position) is a huge advantage — you see others' actions first",
+      "The button is the most profitable seat; the blinds are the least profitable",
+      "Play tight from early position, wide from late position",
+      "Position stays the same for all four betting rounds in a hand",
+      "The same hand can be a raise from the button and a fold from UTG"
+    ],
+    "relatedCategory": "POSITION"
+  },
+  {
+    "id": "rules_004",
+    "title": "Betting Actions and Pot Building",
+    "stage": "RULES",
+    "order": 4,
+    "summary": "Learn the five betting actions and how the pot grows through a hand.",
+    "contentSections": [
+      "Every decision in poker comes down to five possible actions: Fold means you surrender your hand and any chips you've already put in the pot. You lose nothing more, but you can't win. Check means you pass the action to the next player without betting — but only if no one has bet before you in the current round. Call means you match the current bet to stay in the hand.",
+      "Bet means you're the first to put chips in during a betting round. Raise means someone has already bet and you increase the amount. Raises must be at least the size of the previous bet or raise (in no-limit Hold'em, you can raise any amount up to your entire stack).",
+      "The pot is the total of all bets made by all players. It starts with the blinds and grows as players bet and call. Understanding pot size is crucial because it determines whether calling is profitable — the bigger the pot relative to the bet you face, the better your odds.",
+      "No-Limit Hold'em (the most popular variant) means you can bet any amount up to all your chips at any time. This creates dramatic situations where a single decision can win or lose your entire stack. Pot-Limit and Fixed-Limit are other variants with betting restrictions, but NLHE is what you'll encounter most often online and in casinos."
+    ],
+    "keyTakeaways": [
+      "Five actions: fold, check, call, bet, raise",
+      "You can only check if no one has bet in the current round",
+      "In No-Limit, you can bet any amount up to your entire stack",
+      "The pot grows as players put in chips — bigger pots mean bigger decisions",
+      "A raise must be at least the size of the previous bet or raise"
+    ],
+    "relatedCategory": ""
+  },
+  {
+    "id": "rules_005",
+    "title": "The Showdown and Winning the Pot",
+    "stage": "RULES",
+    "order": 5,
+    "summary": "How hands end and how the winner is determined.",
+    "contentSections": [
+      "A hand can end in two ways: either everyone folds to one remaining player (who wins the pot without showing their hand), or two or more players reach showdown after the river betting round. At showdown, all remaining players reveal their hole cards and the best five-card hand wins.",
+      "At showdown, you make the best possible five-card hand from any combination of your two hole cards and the five community cards. You can use both hole cards, one hole card, or even neither (playing the board). If the five community cards make the best possible hand, all remaining players split the pot.",
+      "If two or more players have hands of equal rank, the pot is split equally between them — this is called a chop or split pot. Suits never determine a winner in Hold'em; if two players have identical hand ranks, the pot is always split.",
+      "Side pots are created when a player goes all-in for less than the full bet. The all-in player can only win the main pot (up to their bet from each player). Any additional money goes into a side pot that only the remaining players with chips can win. Understanding side pots matters in tournament play especially."
+    ],
+    "keyTakeaways": [
+      "You win by either making everyone else fold or having the best hand at showdown",
+      "Use any combination of your two hole cards and five community cards",
+      "Equal hands split the pot — suits never break ties",
+      "You don't have to show your hand if everyone else folds",
+      "Side pots form when players go all-in for different amounts"
+    ],
+    "relatedCategory": ""
+  }
+]
