@@ -24,3 +24,5 @@ It should also avoid overwhelming learners with solver output or GTO jargon befo
 The Ideal Arc
 A learner should move through roughly three stages: first, understanding the rules and structure of the game cold; second, developing solid fundamental instincts around position, hand selection, pot odds, and basic post-flop logic; and third, beginning to think in ranges — asking not just "what do I have?" but "what does my opponent think I have, and what can they have?" That third stage is where beginners become intermediate players, and a good app plants those seeds early even if it doesn't fully develop them until later modules.
 The game in 2026 is highly solver-influenced at any level above micro-stakes, so even beginner content should acknowledge that poker is a game of ranges and frequencies — not just hand-versus-hand matchups. Getting players comfortable with that framing early is one of the highest-value things a modern training app can do.
+
+Fold Equity works for anyone who has Java 21 — download the dist/fold-equity/ folder and you're good to go. The data/ directory must be in the working directory when you run the JAR. Happy grinding!
